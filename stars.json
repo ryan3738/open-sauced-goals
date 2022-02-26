@@ -1,69 +1,69 @@
 [
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 45953,
-    "open_issues_count": 624,
-    "forks_count": 6043
+    "stargazers_count": 45972,
+    "open_issues_count": 625,
+    "forks_count": 6050
   },
   {
     "full_name": "vinitshahdeo/Hacktoberfest2021",
     "stargazers_count": 858,
     "open_issues_count": 85,
-    "forks_count": 688
+    "forks_count": 687
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 8932,
+    "stargazers_count": 8967,
     "open_issues_count": 7,
-    "forks_count": 606
+    "forks_count": 607
   },
   {
     "full_name": "vercel/nextjs-subscription-payments",
-    "stargazers_count": 1574,
-    "open_issues_count": 15,
-    "forks_count": 236
+    "stargazers_count": 1583,
+    "open_issues_count": 9,
+    "forks_count": 239
   },
   {
     "full_name": "znck/grammarly",
-    "stargazers_count": 1046,
+    "stargazers_count": 1047,
     "open_issues_count": 97,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "themesberg/glass-ui",
-    "stargazers_count": 183,
+    "stargazers_count": 185,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 28819,
-    "open_issues_count": 243,
-    "forks_count": 1610
+    "stargazers_count": 29000,
+    "open_issues_count": 233,
+    "forks_count": 1628
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 63905,
-    "open_issues_count": 60,
+    "stargazers_count": 63951,
+    "open_issues_count": 62,
     "forks_count": 5884
   },
   {
     "full_name": "jason0x43/hacs-hubitat",
     "stargazers_count": 93,
-    "open_issues_count": 26,
+    "open_issues_count": 27,
     "forks_count": 33
   },
   {
     "full_name": "keystonejs/keystone",
-    "stargazers_count": 5844,
-    "open_issues_count": 152,
-    "forks_count": 722
+    "stargazers_count": 5865,
+    "open_issues_count": 154,
+    "forks_count": 726
   },
   {
     "full_name": "myspaghetti/macos-virtualbox",
-    "stargazers_count": 11870,
+    "stargazers_count": 11878,
     "open_issues_count": 6,
-    "forks_count": 968
+    "forks_count": 967
   },
   {
     "full_name": "ryan3738/bellingham3d-backend",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "home-assistant/frontend",
-    "stargazers_count": 2188,
-    "open_issues_count": 324,
+    "stargazers_count": 2194,
+    "open_issues_count": 328,
     "forks_count": 1538
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 13519,
-    "open_issues_count": 36,
-    "forks_count": 1796
+    "stargazers_count": 13544,
+    "open_issues_count": 38,
+    "forks_count": 1798
   },
   {
     "full_name": "joincomet/comet",
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 24222,
-    "open_issues_count": 138,
-    "forks_count": 2091
+    "stargazers_count": 24285,
+    "open_issues_count": 137,
+    "forks_count": 2095
   },
   {
     "full_name": "davatron5000/awesome-standalones",
-    "stargazers_count": 832,
+    "stargazers_count": 834,
     "open_issues_count": 12,
     "forks_count": 31
   },
@@ -111,25 +111,25 @@
     "full_name": "magiclabs/example-nextjs",
     "stargazers_count": 68,
     "open_issues_count": 5,
-    "forks_count": 28
+    "forks_count": 29
   },
   {
     "full_name": "btahir/next-shopify-starter",
     "stargazers_count": 212,
     "open_issues_count": 0,
-    "forks_count": 46
+    "forks_count": 48
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 181449,
-    "open_issues_count": 14,
-    "forks_count": 20930
+    "stargazers_count": 181758,
+    "open_issues_count": 16,
+    "forks_count": 20999
   },
   {
     "full_name": "Leaflet/Leaflet",
-    "stargazers_count": 32981,
-    "open_issues_count": 511,
-    "forks_count": 5148
+    "stargazers_count": 33033,
+    "open_issues_count": 513,
+    "forks_count": 5154
   },
   {
     "full_name": "klutchell/balena-pihole",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "wesbos/eslint-config-wesbos",
-    "stargazers_count": 2357,
+    "stargazers_count": 2356,
     "open_issues_count": 2,
-    "forks_count": 395
+    "forks_count": 397
   },
   {
     "full_name": "nicolas-siplis/cyberpwned",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "withspectrum/spectrum",
-    "stargazers_count": 10382,
+    "stargazers_count": 10389,
     "open_issues_count": 277,
-    "forks_count": 1197
+    "forks_count": 1198
   },
   {
     "full_name": "HospitalRun/hospitalrun",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 2479,
-    "open_issues_count": 43,
-    "forks_count": 1188
+    "stargazers_count": 2482,
+    "open_issues_count": 41,
+    "forks_count": 1186
   },
   {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 2995,
+    "stargazers_count": 3003,
     "open_issues_count": 18,
-    "forks_count": 1286
+    "forks_count": 1292
   }
 ]
