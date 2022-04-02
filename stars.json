@@ -1,51 +1,51 @@
 [
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 46296,
+    "stargazers_count": 46318,
     "open_issues_count": 620,
-    "forks_count": 6096
+    "forks_count": 6099
   },
   {
     "full_name": "vinitshahdeo/Hacktoberfest2021",
-    "stargazers_count": 849,
+    "stargazers_count": 848,
     "open_issues_count": 85,
     "forks_count": 680
   },
   {
     "full_name": "alan2207/bulletproof-react",
-    "stargazers_count": 9426,
-    "open_issues_count": 11,
+    "stargazers_count": 9460,
+    "open_issues_count": 12,
     "forks_count": 661
   },
   {
     "full_name": "vercel/nextjs-subscription-payments",
-    "stargazers_count": 1645,
-    "open_issues_count": 12,
-    "forks_count": 254
+    "stargazers_count": 1654,
+    "open_issues_count": 13,
+    "forks_count": 255
   },
   {
     "full_name": "znck/grammarly",
-    "stargazers_count": 1074,
-    "open_issues_count": 99,
-    "forks_count": 62
+    "stargazers_count": 1077,
+    "open_issues_count": 100,
+    "forks_count": 63
   },
   {
     "full_name": "themesberg/glass-ui",
-    "stargazers_count": 191,
+    "stargazers_count": 192,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 30316,
-    "open_issues_count": 259,
-    "forks_count": 1751
+    "stargazers_count": 30523,
+    "open_issues_count": 279,
+    "forks_count": 1770
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 64983,
-    "open_issues_count": 65,
-    "forks_count": 5999
+    "stargazers_count": 65039,
+    "open_issues_count": 67,
+    "forks_count": 6013
   },
   {
     "full_name": "jason0x43/hacs-hubitat",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "keystonejs/keystone",
-    "stargazers_count": 6060,
-    "open_issues_count": 117,
-    "forks_count": 747
+    "stargazers_count": 6074,
+    "open_issues_count": 122,
+    "forks_count": 751
   },
   {
     "full_name": "myspaghetti/macos-virtualbox",
-    "stargazers_count": 11976,
-    "open_issues_count": 6,
-    "forks_count": 979
+    "stargazers_count": 11981,
+    "open_issues_count": 8,
+    "forks_count": 982
   },
   {
     "full_name": "ryan3738/bellingham3d-backend",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "home-assistant/frontend",
-    "stargazers_count": 2263,
-    "open_issues_count": 377,
-    "forks_count": 1572
+    "stargazers_count": 2266,
+    "open_issues_count": 366,
+    "forks_count": 1574
   },
   {
     "full_name": "jina-ai/jina",
-    "stargazers_count": 14144,
-    "open_issues_count": 47,
-    "forks_count": 1823
+    "stargazers_count": 14168,
+    "open_issues_count": 44,
+    "forks_count": 1825
   },
   {
     "full_name": "joincomet/comet",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "chakra-ui/chakra-ui",
-    "stargazers_count": 24842,
-    "open_issues_count": 122,
-    "forks_count": 2161
+    "stargazers_count": 24915,
+    "open_issues_count": 129,
+    "forks_count": 2168
   },
   {
     "full_name": "davatron5000/awesome-standalones",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "btahir/next-shopify-starter",
-    "stargazers_count": 223,
+    "stargazers_count": 225,
     "open_issues_count": 0,
     "forks_count": 53
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 187135,
+    "stargazers_count": 187388,
     "open_issues_count": 1,
-    "forks_count": 21560
+    "forks_count": 21604
   },
   {
     "full_name": "Leaflet/Leaflet",
-    "stargazers_count": 33461,
-    "open_issues_count": 517,
-    "forks_count": 5207
+    "stargazers_count": 33485,
+    "open_issues_count": 518,
+    "forks_count": 5215
   },
   {
     "full_name": "klutchell/balena-pihole",
@@ -141,7 +141,7 @@
     "full_name": "wesbos/eslint-config-wesbos",
     "stargazers_count": 2373,
     "open_issues_count": 6,
-    "forks_count": 396
+    "forks_count": 397
   },
   {
     "full_name": "nicolas-siplis/cyberpwned",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "withspectrum/spectrum",
-    "stargazers_count": 10432,
+    "stargazers_count": 10442,
     "open_issues_count": 283,
-    "forks_count": 1210
+    "forks_count": 1212
   },
   {
     "full_name": "HospitalRun/hospitalrun",
-    "stargazers_count": 724,
-    "open_issues_count": 29,
-    "forks_count": 230
+    "stargazers_count": 727,
+    "open_issues_count": 30,
+    "forks_count": 231
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 2508,
-    "open_issues_count": 43,
-    "forks_count": 1190
+    "stargazers_count": 2510,
+    "open_issues_count": 42,
+    "forks_count": 1191
   },
   {
     "full_name": "saadpasta/developerFolio",
-    "stargazers_count": 3070,
+    "stargazers_count": 3084,
     "open_issues_count": 16,
-    "forks_count": 1338
+    "forks_count": 1340
   }
 ]
